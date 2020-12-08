@@ -1,0 +1,4 @@
+
+(fp_lib_table
+  (lib (name "christmas-pcb-badge")(type KiCad)(uri "$(KIPRJMOD)/christmas-pcb-badge.pretty")(options "")(descr ""))
+)
