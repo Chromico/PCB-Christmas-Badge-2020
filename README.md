@@ -24,7 +24,7 @@ My website: https://tecknologg.website
 You can get the official documentation here: https://github.com/Chromico/PCB-Christmas-Badge-2020/blob/main/documentation/Christmas%20badge%20(%202020%20edition%20)%20-%20documentation.pdf
 
 # Certification
-Pending
+![picture](https://github.com/Chromico/PCB-Christmas-Badge-2020/blob/main/photos/oshwa-MU000004.png)
 
 
 # Contact
